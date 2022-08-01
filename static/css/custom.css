@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lora', serif;
+}
+
+.welcome h1 {
+    font-family: 'Lora', serif;
+    font-size: 40px;
+}
+  
+.welcome h2, p, a {
+    font-family: 'Lora', serif
+}
+
+.mt-3 h2, .mt-3 h3 {
+    font-family: 'Lora', serif
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img[src~="about"] {
+    max-width: 100%;
+    align-content: center;
+  }
+
+iframe {
+    max-width: 100%;
+}
